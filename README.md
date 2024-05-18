@@ -2,7 +2,7 @@
 
 
 ```markdown
-# Bitto_Assignment_Sanket_Kumar
+# Bito_Assignment_Sanket_Chaudhary
 
 This is a basic application for a Publishing Company to collect, store, and display subscription details. It includes two pages: one for data entry (either through a form or JSON file upload) and another for displaying the stored data in a tabular format, along with insights like total subscriber count, subscriber with the longest duration, and the country with the most subscribers.
 
@@ -17,18 +17,18 @@ This is a basic application for a Publishing Company to collect, store, and disp
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/MrSanketKumar/Bitto_Assignment_Sanket_Kumar.git
+   git clone https://github.com/MrSanketKumar/Bitto_Assignment_Sanket_Chaudhary.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd Bitto_Assignment_Sanket_Kumar
+   cd Bitto_Assignment_Sanket_Chaudhary
    ```
 
 3. Install the required dependencies (assuming you have Go and Node.js installed).
 
-4. Set up the PostgreSQL database and configure the connection details in the `config/database.go` file.
+4. Set up the PostgreSQL database and configure the connection details in the `config/config.go` file.
 
 5. Run the application:
 
@@ -85,13 +85,11 @@ This is a basic application for a Publishing Company to collect, store, and disp
 The following constants define the paths for the backend API endpoints:
 
 ```go
-const (
     CreateSubscriptionPath             = "/subscription"
     GetAllSubscriptionsPath            = "/subscriptions"
     GetTotalSubscribersPath            = "/subscriptions/total"
     GetLongestSubscriptionDurationPath = "/subscriptions/longest"
     GetMostSubscribersPath             = "/subscriptions/most-subscribers"
-)
 ```
 
 These paths can be used for testing the backend API endpoints using tools like Postman or cURL. Here's how you can test each endpoint:
@@ -160,7 +158,7 @@ The application includes two pages:
 ## Screenshots
 
 ### Data Entry Page
-![Data Entry Page](screenshots/data-entry-page.png)
+![Data Entry Page](`C:\Users\Sanket\Desktop\Bito_Assignment_Sanket_Chaudhary\Bito_ViewData.PNG`)
 
 ### Data Display and Insights Page
-![Data Display and Insights Page](screenshots/data-display-page.png)
+![Data Display and Insights Page](`"C:\Users\Sanket\Desktop\Bito_Assignment_Sanket_Chaudhary\Bito_Submit.PNG"`)
