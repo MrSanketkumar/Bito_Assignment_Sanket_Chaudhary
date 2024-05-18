@@ -158,7 +158,7 @@ The application includes two pages:
 ## Screenshots
 
 ### Data Entry Page
-![Data Entry Page](`C:\Users\Sanket\Desktop\Bito_Assignment_Sanket_Chaudhary\Bito_ViewData.PNG`)
+![Data Entry Page](https://github.com/MrSanketkumar/Bito_Assignment_Sanket_Chaudhary/blob/97e7c7e0bbecfc8e514d7b2b1a8261648ddf7f70/Bito_Submit.PNG)
 
 ### Data Display and Insights Page
-![Data Display and Insights Page](`"C:\Users\Sanket\Desktop\Bito_Assignment_Sanket_Chaudhary\Bito_Submit.PNG"`)
+![Data Display and Insights Page](https://github.com/MrSanketkumar/Bito_Assignment_Sanket_Chaudhary/blob/97e7c7e0bbecfc8e514d7b2b1a8261648ddf7f70/Bito_ViewData.PNG)
