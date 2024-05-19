@@ -23,7 +23,7 @@ This is a basic application for a Publishing Company to collect, store, and disp
 2. Navigate to the project directory:
 
    ```bash
-   cd Bitto_Assignment_Sanket_Chaudhary
+   cd Bito_assignment
    ```
 
 3. Install the required dependencies (assuming you have Go and Node.js installed).
